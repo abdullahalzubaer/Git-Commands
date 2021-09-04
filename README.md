@@ -70,3 +70,11 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### My Git-Commands (Zubaer's)
+
+| Command | Description |
+| ------- | ----------- |
+| `git remote update` | Update all branches |
+| `git status -u` | Check if GitHub sync with local |
+| `git remote rm <name> ` | Remove <name> remote |
