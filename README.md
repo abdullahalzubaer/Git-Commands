@@ -78,3 +78,4 @@ _A list of my commonly used Git commands_
 | `git remote update` | Update all branches |
 | `git status -u` | Check if GitHub sync with local |
 | `git remote rm <name> ` | Remove <name> remote |
+| `rm -rf .git` | Remove git file from folder|
