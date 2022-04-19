@@ -71,11 +71,17 @@ _A list of my commonly used Git commands_
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
-### My Git-Commands (Zubaer's)
+### My Git-Commands (Zubaer's Commonly Used)
 
 | Command | Description |
 | ------- | ----------- |
+|`git remote -v`| Show remote url after name |
+|`git remote rm `| Remove the remote named <name> |
+|`git branch -a`| Show all branch, example when you pull from a repo that has branches you can use it to show all branches|
+|`git branch --list`| Existing branches are listed|
 | `git remote update` | Update all branches |
 | `git status -u` | Check if GitHub sync with local |
 | `git remote rm <name> ` | Remove <name> remote |
 | `rm -rf .git` | Remove git file from folder|
+|`git branch -d <branchname>`| Remove branch|
+|`git remote update` -> `git status -u`| To check if local is in sync with the repository|
