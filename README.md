@@ -85,3 +85,5 @@ _A list of my commonly used Git commands_
 | `rm -rf .git` | Remove git file from folder|
 |`git branch -d <branchname>`| Remove branch|
 |`git remote update` -> `git status -u`| To check if local is in sync with the repository|
+|`git log --graph --oneline`| Compresed version of git tree|
+|`git log --graph`| Show full git tree in very detail|
