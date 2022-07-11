@@ -87,3 +87,4 @@ _A list of my commonly used Git commands_
 |`git remote update` -> `git status -u`| To check if local is in sync with the repository|
 |`git log --graph --oneline`| Compresed version of git tree|
 |`git log --graph`| Show full git tree in very detail|
+|`git checkout <branch-name>`| As the command says, the head will be on the provided name branch|
