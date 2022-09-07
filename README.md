@@ -113,4 +113,14 @@ git commit -m "provide-anynmessage"
 
 git push
 ```
+  
+When you cloned a repo that has one branch e.g. main and then how to create another branch and then make this branch available on the remote repo also
+Assuming you have only one branch - main  
+  
+```
+git checkout -b [branch name]
+  
+git push (when you do that you will see some instruction on the git-bash, just follow it to the next step)
+  
+```
 
