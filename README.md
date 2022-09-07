@@ -71,7 +71,10 @@ _A list of my commonly used Git commands_
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
-### My Git-Commands (Zubaer's Commonly Used)
+Everything below is mine (Zubaer)
+---
+
+### My Git-Commands 
 
 | Command | Description |
 | ------- | ----------- |
@@ -88,3 +91,26 @@ _A list of my commonly used Git commands_
 |`git log --graph --oneline`| Compresed version of git tree|
 |`git log --graph`| Show full git tree in very detail|
 |`git checkout <branch-name>`| As the command says, the head will be on the provided name branch|
+
+---
+
+### Comonly used git operation
+
+When cloning: 
+
+```
+git clone (provide https link)
+```
+
+When doing some changes or uploading new file to the git directory locally and you want to push it to the remote repository
+
+```
+git add . 
+or
+git add [the specific path to that specific file/folder that you have changed or added]
+
+git commit -m "provide-anynmessage"
+
+git push
+```
+
