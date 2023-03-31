@@ -105,6 +105,12 @@ git clone (provide https link)
 When doing some changes or uploading new file to the git directory locally and you want to push it to the remote repository
 
 ```
+git remote update
+
+git status
+
+git pull
+
 git add . 
 or
 git add [the specific path to that specific file/folder that you have changed or added]
@@ -123,4 +129,6 @@ git checkout -b [branch name]
 git push (when you do that you will see some instruction on the git-bash, just follow it to the next step)
   
 ```
+
+
 
